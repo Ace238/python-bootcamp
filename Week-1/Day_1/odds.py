@@ -1,5 +1,5 @@
 # The goal of this script is to print out the
-# even numbers between 1 and N (inclusive),
+# odd numbers between 1 and N (inclusive),
 # where N is a user input
 
 N = int(input("Enter an upper limit: "))
